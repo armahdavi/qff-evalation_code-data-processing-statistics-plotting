@@ -1,5 +1,5 @@
 ## Summary
-This repository summarizes all the data pipelines, data pre-processing codes, statistical models, descriptive statistics, plot visualizations, and ML modelings from Mahdavi et al. (2021) (Environmental Pollution)  
+This repository summarizes all the data pipelines, data pre-processing codes, statistical models, descriptive statistics, plot visualizations, and ML modelings from the "QFF evaluation" phase of Mahdavi et al. (2021) (Environmental Pollution). The other phase ("Airborne Measurement") is presented in another repository.
 Project Milestone: 2018 - 2021  
 
 ## The Hidden Story in Our Air Filters
